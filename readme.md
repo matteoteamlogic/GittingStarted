@@ -7,3 +7,6 @@
 Test 2
 
 --- Another change
+
+--
+Test 3 edit in another branch
